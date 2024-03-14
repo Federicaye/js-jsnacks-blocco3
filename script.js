@@ -8,13 +8,19 @@ while (sum <50) {
     numbers.push(newNumber);
 } */
 
-let number = parseInt(prompt("Enter a number"))
+/* SNACK222 */
+
+let number = parseInt(prompt("Enter a number"));
 
 function array () {
     let array1 = [];
     for (let i = 0; i<10; i++){
-        a.push (getRndInteger(min, max) )
+        array1.push (getRndInteger(1, 100) )
+        return array1;
     }
      
 }
 
+for (let i = 0; i<number; i++) {
+    console.log(array());
+}
