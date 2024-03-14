@@ -11,9 +11,10 @@ while (sum <50) {
 let number = parseInt(prompt("Enter a number"))
 
 function array () {
-    for (let i = 0; 1<number, i++){
-        
+    let array1 = [];
+    for (let i = 0; i<10; i++){
+        a.push (getRndInteger(min, max) )
     }
      
-
 }
+
